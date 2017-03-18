@@ -1,0 +1,2 @@
+Arquivo criado no ramo recurso-2.
+Linha nova, tentar adicionar alterações diretamente pelo bash.

@@ -1,2 +1,2 @@
-Documento inicial.
-Linha adicionada no ramo recurso-1.
+Documento inicial com parte final adicionada na feature 2.
+Linha adicionada.
